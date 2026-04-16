@@ -14,5 +14,7 @@
 3. Follow the menu to use the functions
 4. You want to use trasncript part or GPA calculation run main.py
 5. There is two different main file !!!
-## Demo Video Link
+## Demo Video Link task 1
 https:[https://www.bilibili.com/video/BV1D4d8BrEXZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=9405fcc0d02833a90c7d7b119e62c7b9](https://www.bilibili.com/video/BV1D4d8BrEXZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=9405fcc0d02833a90c7d7b119e62c7b9)
+## Demo Video Link task 2
+[## Demo Video Link task 2](https://www.bilibili.com/video/BV1rXdaBaEgc/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9405fcc0d02833a90c7d7b119e62c7b9)
