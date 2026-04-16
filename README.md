@@ -3,9 +3,9 @@
 # Group Information
 - Group Number:107
 - Members:
-  - Name:Xiao Anjie   SID:14113460
+  - Name:Xiao Anjie    SID:14113460
   - Name:Tan  HaiFeng SID:14127255
-
+we only have two member
 
 ## How to Run
 1. Make sure all three .py files are in the same folder
