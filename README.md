@@ -16,6 +16,7 @@
 5. There is two different main file !!!
 6. About subdirectories main1.py-event_date,suggestion
 7. main- circularqueue,classes,tools,TranscriptTashTable,TranscriptPrinter
+8. the task 1 and task 2 are conbined: TranscriptTashTable,circularqueue,tools,are task2 also is task1
 ## Demo Video Link task 1
 https:[https://www.bilibili.com/video/BV1D4d8BrEXZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=9405fcc0d02833a90c7d7b119e62c7b9](https://www.bilibili.com/video/BV1D4d8BrEXZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=9405fcc0d02833a90c7d7b119e62c7b9)
 ## Demo Video Link task 2
